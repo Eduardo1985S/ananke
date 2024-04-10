@@ -9,8 +9,8 @@ Academy Organizer é um aplicativo desenvolvido em React Native com Expo, destin
 - **Montagem da Grade de Horários**: O aplicativo organiza automaticamente a grade de horários com base na disponibilidade dos professores e nas matérias dos cursos.
 
   ## Pastas
-```javascript
-/AcademyOrganizer
+```bash
+/Ananke
 |-- /assets
 |   |-- /images
 |   |-- /fonts
