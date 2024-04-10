@@ -19,5 +19,5 @@ Academy Organizer é um aplicativo desenvolvido em React Native com Expo, destin
 
 Para executar o Academy Organizer localmente, siga estas etapas:
 
-1. Clone o repositório:
+1. Clone o repositório: https://github.com/Eduardo1985S/ananke.git
 
